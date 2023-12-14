@@ -1,0 +1,19 @@
+{
+    "name": "thanhnt37/mautic-plugin-bouncer",
+    "description": "Mautic bundle for useBouncer plugin",
+    "type": "mautic-plugin",
+    "require": {
+        "php": ">=7.4.0 <8.1",
+        "mautic/core-lib": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Thanh",
+            "email": "tatthanh.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "install-directory-name": "BouncerBundle"
+    }
+}
